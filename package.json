@@ -1,0 +1,19 @@
+{
+  "name": "proyectos_2",
+  "version": "1.0.0",
+  "description": "Segundo proyecto de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dvashe/Proyectos_2.js.git"
+  },
+  "author": "Dvashe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dvashe/Proyectos_2.js/issues"
+  },
+  "homepage": "https://github.com/Dvashe/Proyectos_2.js#readme"
+}
